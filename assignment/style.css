@@ -1,0 +1,20 @@
+/* body {
+  background-color: red;
+} */
+header {
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+.pp {
+  background: lightgrey;
+  padding: 1em;
+}
+
+
+ body {
+background-image: url("record.png");
+background-repeat: repeat;
+margin: 0px;
+}
